@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="222" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="102" class="">
     <defs>
         <style/>
     </defs>
@@ -22,27 +22,6 @@
                             From Apple Music
                         </div>
                         <div class="tracklist">
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAICAwEAAAAAAAAAAAAAAAUGBAcBAgMI/8QALhAAAQMDAwMDAgYDAAAAAAAAAQIDBAAFEQYSIRMiMQdBUUJhFBUjJDJSMzSR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAQEBAQEAAAAAAAAAAAAAAAEREgID/9oADAMBAAIRAxEAPwD5xmtsNMBKG1pdDihuKshSePj7/FYVTLEO4WwW26Sra8uFM3iItxJCX8dp2H3IJ/7Vj1HNTcX5TNx0rMjS7cnLzbQLf4dGAP1EhPAyc5OPNJMX6eu7smKHTP35q4h62vM2pufpeW31m0pYdZUpBlEJSjtAT3ZUk+MkFw/GKzJD0SNAcgydMzt1vRsndpSqOSs43kp7VYITnjOAcA1WFCpUheIqo7rDqYEmFHktB5gP5PUQSRuSSORkYyPilBut+2WyV6YaJkTtPXJHUlKZhMQX1bwtS0kdRSycB3apQUkAjHHFSGp49gdv/qI7Nj31p9uKlUx1tzc26yXW9q2yf5bkhKsKJA6aseeNLMa01Cw5cXG7o/uuDCY0jJzlCQAkAfSUgYBGCATjya4j6yv8eJborVxdEeB/hbIBG3ntX/ZIClAJOQAogeamL03U5abPMuHpez+V6hEdbe23tF0KKMPbsvHOU9pDx247SB4ANefStcpz1PdmWi/NJQ50rmlmVuEgB7IcbChkKAHVKTkbRjIBrTrWudRtN3tCLm8BeP8AcPur27T9PHbxjt48V2Ot9QPOWZTlzWFWkftl7efGO/8Av2gI5z2jHiri6svqzCtUXTujXLezdW1vW/LKpZBSuP1F4H2WD3EDjDntilUu86jut3YUxcZy5LJfMlKFjhtZG07B9IxgbRgcD4pRKh6UpRClKUClKUH/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Animal I Have Become</div>
-                                    <div class="artist">Three Days Grace</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYCBwMIAQQF/8QALRAAAQMDAwIEBQUAAAAAAAAAAQIDBAAFERIhMQZBEyJRcQcUMmGRFYGhwdH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQEDBgf/xAAhEQABBAICAwEBAAAAAAAAAAABAAIDEQQhBRITMWFBUf/aAAwDAQACEQMRAD8AQ1KOe+a5S2pz6QMe4FQJ3PrT101GhQrKlMq1C4XC4eZtGohQRgkccDIyT3zjgUlijMhoLo+fmDEi7+7/ABI5StLZVghPB9KxjJ7nFPs63p0NvOwEhQlOshLaNaiAlKk7bbYO3JwDxWF7p2NJssm52+6tPAbtxwzhRIGVpIySMAZydqufiPaLu0tx+fjlcGFtEpOYWpp5DiVELQQoEeooqOd87UUNdJ71B2VNcZzVwfxVrdETJVx6aiMSHJMF2E8G4kxlJWX1FKglOCdPl++xwBzSJdJTAU2mzvwJjqlfSmU3nHPBP9GmP4Z3yc31FJRcH2JGuOrTFbWFaFJOQEjIAPJ+/qKuhL45B/Cs1zGWzIj8TBZG7Xq3+K5aJbKvGUi7uJU94jilFSXMpw4tJJyFjUnScDGAMbGoP/qNkt0q5TlwVQ3kqZYjx46i6FlR+twpATgL098jYc09y4jEuzKvDIecVI1Z8dvDjKsAaCRsE6k6lKJOQABtjFWdbSpjd6bYss1txqLHQHWlubEqwdKhuM8HcfvR2VIWMtvtZvEA8gLhYG0ktxnDtj+KKYen5Mb51AvLkWOpLmFITJQFkfbB598UUuEbityORY4AtCrKBGcbe+YjuLQobJ0Ab/mmnpJgMX+LKuDrqIqXAtwpTlSiNxgd9xv70UUVK7aTYULSCfi2I6m6itMLpm5ojqS1IuDaH16E+XKsDY8Z74GO59TWsapSpVyXJceUlSATnPmJA/yiirJ9+0Lx7A1p+ldFanpUrX4iVq58w329tqKKKi+ugiWsBX//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">G.O.A.T.</div>
-                                    <div class="artist">Polyphia</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAcFBggB/8QAKBAAAQMDAgYCAwEAAAAAAAAAAQIDBAAFEQYhBxITIjFBUWFCcYGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIDBBESQRNRYf/aAAwDAQACEQMRAD8A5VoKVU+BV/slgn3JzUTCVRn+i0h5bAdQ0rKj3Z8A/OPVLusdcHJLeujUI8npktp6rq7iDf8AR6At6Hb4Eu4W+KX2Q0wlSSHOUBQIGPjc+BUZ4rWa42+y6bn3l5pUy4B5zosspbbZQOTlAAAyTnJJqXHzfM0nHW/YyVXFb2TWlKVcJParnAVUjk1GiFb2LhJW00EMyFJDecrOVZ9frfJqR1sWjpsSFMecubPXglI521bpK89uf5zf7SMqDsqcUMqfGSZWZemJiNbWeFNLsdMltS1KgOdNhJypTic7k/iQPf6rE8fmrxFtemIt+kxpjjRk9GS0e5xvLeOonGyh9ZBrHP3nSSn2lt2+AGwlRPadzttjO3jz91p+tLhFnymFWuOI8BCSlKEbJLme4gZ845R/BUWPVN2Rcuvg2yScWka1SlK6hMKUpQApSlAClKUAf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Forgotten</div>
-                                    <div class="artist">LINKIN PARK</div>
-                                </div>
-                            </div>
                             <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EADEQAAIBAwMDAwICCwAAAAAAAAECAwAEEQUSIQYTMSJBUTJhFIEHI0JSc4KRobHB4f/EABgBAQEBAQEAAAAAAAAAAAAAAAIBAwUA/8QAHhEAAgEFAQEBAAAAAAAAAAAAAAECAxEhMUESE1H/2gAMAwEAAhEDEQA/ALPc3ENoA11NFCrHAMjhf815Q6tpsriOHULR3ZtoVZlJJ+Bz5rMtVsZhqy2dt0xcXqrns3D9x0dPchT9Rz96nat0z1A238JoCLCpDM7QxxCPaMMCWOQQAK5Sr6wdN00ummspUEngDyaIR3Iw6epWGQQcgisuuNH60MkypZXTyxqA6mTYdm5hklmx+y3PHjPxUzSrPqG80+GO3j2s8SzR9yUACNiQrDJ+x8f9qus1wKiv00FJoDO0aSoZgoLIG+ke1FUxum9ftRLfPawNbLGzl45V3BFIDMOeQDxx/qij92uD8RfSwzdRuNOhhilexlSKKJpROu7CvG2FA4B2owyf3ucgUl1Hqopqc97pNq80atInbkPbEYeKNWJC/wAPPGOSeMVnOk2UmmytetNNPcOm149+f5iTwcY8efFMIbi51KG5W/tIdoQSJGGH98Dk+3INYWa7gdovg11D9JurT3t72w93cS2wU9uEcJ6sYYYK/WRn4+4qLofVl/Ja20sTzQyJbfhe2p3PFGpBXk4IH3wT6qWaKLy9SNXtGthKGUsB9EfgDjxTGbTUa5t1gLurLzIpOOD4znzxjn8+KUpJYIodSObPXtYnu7rdO9rGxMZR5GO9W9TgjJGCecD380VxcnTNO2Nc3RgnLFo4yytngYOM8fHOBmijvSLhbF8NwjapDbQlnki3NKZwdsp+Qy+2PnFPJeyjsZWRYAgEXbwW9vSB5I96KKs1ax6LIC3d1DG0UETxylztEzAuy+/HtgkV4w6hfWUb2yszOvOPJ2+eMef6UUU4pNZRpCp5WkRb6GK9WMX1uN5x+tKEEDOTz4/Kiiik3bQKkk3pH//Z" width="32" height="32" alt="" />
                                 <div class="infos">
