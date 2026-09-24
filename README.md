@@ -11,3 +11,6 @@ Student at the University of Toronto, learning full-stack web development.
 <!-- 📫 your.email@example.com -->
 
 ![GitHub metrics for ric-e](https://raw.githubusercontent.com/ric-e/ric-e/metrics/github-metrics.svg)
+
+### 🎵 Song of the day
+![Song of the day](https://raw.githubusercontent.com/ric-e/ric-e/metrics/song-of-the-day.svg)
