@@ -27,13 +27,16 @@ jobs:
           base: header, activity
           base_indepth: yes                          # more accurate PR/commit/issue totals
 
-          # Include repos you have push access to, not just ones you own
-          repositories_affiliations: owner, collaborator
-          # repositories_skipped: owner/repo-to-exclude
+          # Commit identities used to attribute code to you (all use GitHub noreply emails)
+          commits_authoring: ric-e, eric
           config_timezone: America/Toronto
 
           # Most used languages
           plugin_languages: yes
           plugin_languages_limit: 8
+          # Indepth: clone repos and count only lines from YOUR commits
+          plugin_languages_indepth: yes
+          # Also analyze repos you don't own (archived team project)
+          plugin_languages_indepth_custom: jackkoskie/chill-pill
           # Uncomment if notebooks/generated code skew the bar:
           # plugin_languages_ignored: jupyter notebook
