@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Eric!
 
-<!--
-**ric-e/ric-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at the University of Toronto, learning full-stack web development.
 
-Here are some ideas to get you started:
+- **Comfortable with:** Python, R, Java
+- **Web:** HTML, CSS, JavaScript, Svelte
+- **Learning:** C++, Rust, SQL
+- **Open to:** collaborating on projects, big or small
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - **Currently building:** [PROJECT NAME](https://github.com/OWNER/REPO): one line on what it does -->
+<!-- 📫 your.email@example.com -->
+
+![GitHub metrics for ric-e](https://raw.githubusercontent.com/ric-e/ric-e/metrics/github-metrics.svg)
