@@ -1,0 +1,34 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # weekly, Mondays 06:00 UTC
+  workflow_dispatch:      # manual "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@v3.34   # pinned; don't use @latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}   # CLASSIC PAT, no scopes (public data only)
+          user: ric-e
+          template: classic
+          filename: github-metrics.svg
+
+          # Output goes to a separate branch so main stays clean
+          committer_branch: metrics
+          committer_message: "chore: update metrics"
+
+          # Card contents: header + activity counts only
+          base: header, activity
+          config_timezone: America/Toronto
+
+          # Most used languages
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          # Uncomment if notebooks/generated code skew the bar:
+          # plugin_languages_ignored: jupyter notebook
