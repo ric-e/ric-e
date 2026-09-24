@@ -25,6 +25,11 @@ jobs:
 
           # Card contents: header + activity counts only
           base: header, activity
+          base_indepth: yes                          # more accurate PR/commit/issue totals
+
+          # Include repos you have push access to, not just ones you own
+          repositories_affiliations: owner, collaborator
+          # repositories_skipped: owner/repo-to-exclude
           config_timezone: America/Toronto
 
           # Most used languages
