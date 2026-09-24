@@ -15,6 +15,5 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_music: yes
-          plugin_music_playlist: https://embed.music.apple.com/ca/playlist/YOUR-PLAYLIST/pl.u-XXXXXXXX
-          plugin_music_limit: 1
+          plugin_music_playlist: https://embed.music.apple.com/ca/playlist/current-rotation/pl.u-LdbqEgdF2vBZ9yj
           committer_branch: metrics
