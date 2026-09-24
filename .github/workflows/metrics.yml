@@ -40,3 +40,12 @@ jobs:
           plugin_languages_indepth_custom: jackkoskie/chill-pill
           # Uncomment if notebooks/generated code skew the bar:
           # plugin_languages_ignored: jupyter notebook
+
+          # Make the "N Languages" heading match the bar's legend.
+          # (By default it counts GitHub's labels on repos you own, which ignores chill-pill.)
+          extras_js: |
+            const n = document.querySelectorAll(".field.language").length;
+            for (const h2 of document.querySelectorAll("h2.field")) {
+              const t = [...h2.childNodes].find(x => x.nodeType === 3 && /Language/.test(x.textContent));
+              if (t && n) t.textContent = ` ${n} Language${n === 1 ? "" : "s"} `;
+            }
