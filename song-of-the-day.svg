@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="222" class="">
+    <defs>
+        <style/>
+    </defs>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style/>
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
+                    </svg>
+                    Suggested tracks
+                </h2>
+                <div class="row fill-width">
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
+                            </svg>
+                            From Apple Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAYHAwQBAgj/xAAvEAABAgUCBQIEBwAAAAAAAAABAgMABAURIRIxBgcTQVEUIlJhcdEWMoGCkaHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECBAP/xAAZEQADAQEBAAAAAAAAAAAAAAAAARECEkH/2gAMAwEAAhEDEQA/AIOeUVMUQUVWc0na6U5/qMq+TtM0Eoqc9q+aUfaJQw9L1iY9SVNKZbslq6gQbkZAIuD9IlDZCkJKSLECML3pemrlFXp5O0woBNTnr2+FH2jXPKKnJfShdYeAUCUpISFG2+I2ObHGM1TZ1NHpr65RfTDr76E+43/KlPjyTHXgKkM1art1KcrbtTelQVN5UCBjSb9s6rpv+loq6lbJisOTyepmLVOeH7UH/IROqrUDTJYOTToCVrCEEJzc7Cw+kInvbK5RW3DFAeqFJl1fiSmSDZT1EInV6FX1W9ucjHf5xKpJqpNL9MONaCEsoTpGpNiLJO5G4vbfzHn4PKHc/wAw66/JtGh5yzlWWrxrLomqw0uoTclMuyignqISmzyd74yUXyD4O0YaRNIp7LEuxMyrKEuXHTWEG5ObkZIzsTsIrH1DltzDrrHcwuUOlzVniM9LW9UZV1xonSltVlm6SMEDHbPaEUz11/EYQcZDpmGEIQxCEIQAIQhAB//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Faint</div>
+                                    <div class="artist">LINKIN PARK</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAQFBgcBAwgC/8QAMRAAAgEDAwIEBAQHAAAAAAAAAQIDBAURAAYhEjETIkFRBxRhgRUycXIWI5GhsdHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIEAAP/xAAbEQEBAQEAAwEAAAAAAAAAAAABAAIRAyExcf/aAAwDAQACEQMRAD8AWncNDte9SQ1KSzSyJBKkkZGCssnhrwTgEEEnAHHuda7h8RNv7k/DaOmoK2SaeQsr+TnpRSw4PoHOf2/ppfPtSHcFxiuNQiPKkaLGkcnT5UbrUMCO4bPr200U21LVROrpb3ikpHPh4IyuAoJ7ckhPvzrmcm40R3de471Y2orJVTUdIkHzFYjANI8beEFUHPbEhJ/bp225cdubZ2rJR0z1c706iaZmVV6mMoQ8g44yD37a9UNNt2a4i2ijFPNNT+G0buuZY2iUKFI7kADj0Iz7asS9bKslXRyXO6Urx1T+F1GMgZwYwq4x2/lrocPt0dJkzRbaNypb5fK6mo1qWlhihmmaoGMIQrDGDkE5/sdGsQUtp2nuK41duUxdcS03hsxcuihQOwHPkH0HOjWSQtux79V0tc0cgDrJG35h+U4405703ebLs+U2ZZH3BUydNMny4l5HLHpHby55Ofvqtvh7UV9y3Kolm6afo6svwoU45Hqck6tjcG2bWtv6qyYiVYiUkB88ZwfOrA5XR/LYQfdRclTaNp75oLkk8zxPHPVgKqu1NUN1IEYE+bpK+p+vbv0Au4JdybTlr7dTS/Lu/hRSzIVeRFIBYKfQnPPtrm68w2ao3Lcf4jr6pfl2WmgjgjA6o1TysWOfYenJOSec6un4Z3WY7JoTOaqSn6BEoqWJPQrYVh9gD/zSFV5snOzDuSJ5LsgklMSghmHVy3b00ak2/KeiqL8J4cO6kBsYGfTkevv9dGm7S0U2NGJb0Elr1cVDrEvS2TknIGB/j6am9wVY2ePxC+G6VJOeojIA0aNYgVafE3ZLVssd0t8bTVPhiGSFFznAIDfr6f00pg2dI9ujRL1WIDD5o8+ZCAAB3450aNA+tT5NLjIzbX7KrlLo18m8yjkRkMrEe/V/rRo0aPWn5f/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Papercut</div>
+                                    <div class="artist">LINKIN PARK</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIEBgcIAwn/xAApEAABAwMDAwMFAQAAAAAAAAABAgMEAAURBhIxByFBE1FhCBQiMnGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwC8IvUS0K1lP03PS/bZUbHovzU+k1K7DIbUrG4jPHnkVM0FKgCMEH2pjerRAvdudgXaGxMhujatl9AUkj+Hg/I71W94i3/pnBVM024q7aWjIKnrbLUpb0RIHLLg/JSB5SckDuM8URawCc4BGaFqQhClLUEpAySewArN8r6n7ImGl2JYZH3yld0uK/HBH7bgMkZ7cZ+Kmdgs+oupcdFw1ysQtNPpCmLJHSppUhPhT6idwB52A9xjOOKLiWudR9NqvkO1QpLtwfkveh6sJlTzDSscLdSNg/mSR5oqT2y3RLVAYhW2MzEhsJ2NMMoCUIHsAKKzQ6xxTK7ymINtly5aiiMwyt1xWM4QkEqOP4KfDiuUhlDzS2nUJW2tJSpKhkKB7EEe1aHnvoe46diavgzrsH/sI85lxMh1WdjYWpSj6YB3AkD8Rx8mteWvrloi53aJbrdOkyX5TyWWymMpKSpRAH7AEjJ8A8Gs69SekDtl1cyzFivQdKy7miJHmSXElSVuDuNoGdmR2JHA5rSnTbo/pjQryJkBhyVdQkp+8lKClpzzsAASn/Bn5oLGznxRStoHiipQj1E4/YUBaT5oopa1IjHUPR8PW1gFtlyHI5bfRJZfbAJbcRnBweR34qTMjY2lKllSgACo8qPvRRTTC9yfcUUUVNMf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Kiss from a Rose</div>
+                                    <div class="artist">Seal</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAcFBggB/8QAKBAAAQMDAgYCAwEAAAAAAAAAAQIDBAAFEQYhBxITIjFBUWFCcYGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIDBBESQRNRYf/aAAwDAQACEQMRAD8A5VoKVU+BV/slgn3JzUTCVRn+i0h5bAdQ0rKj3Z8A/OPVLusdcHJLeujUI8npktp6rq7iDf8AR6At6Hb4Eu4W+KX2Q0wlSSHOUBQIGPjc+BUZ4rWa42+y6bn3l5pUy4B5zosspbbZQOTlAAAyTnJJqXHzfM0nHW/YyVXFb2TWlKVcJParnAVUjk1GiFb2LhJW00EMyFJDecrOVZ9frfJqR1sWjpsSFMecubPXglI521bpK89uf5zf7SMqDsqcUMqfGSZWZemJiNbWeFNLsdMltS1KgOdNhJypTic7k/iQPf6rE8fmrxFtemIt+kxpjjRk9GS0e5xvLeOonGyh9ZBrHP3nSSn2lt2+AGwlRPadzttjO3jz91p+tLhFnymFWuOI8BCSlKEbJLme4gZ845R/BUWPVN2Rcuvg2yScWka1SlK6hMKUpQApSlAClKUAf//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Forgotten</div>
+                                    <div class="artist">LINKIN PARK</div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+    </foreignObject>
+</svg>
